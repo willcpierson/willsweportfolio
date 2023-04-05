@@ -2101,6 +2101,10 @@ ul.actions li:first-child {
 	font-size: 6em;
 }
 
+.icon.featured:hover {
+	cursor: pointer;
+}
+
 /* Wrappers */
 
 .wrapper {
