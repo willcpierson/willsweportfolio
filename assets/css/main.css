@@ -2580,3 +2580,8 @@ body>article {
 	}
 
 }
+
+.tech-pics {
+	height: 60px;
+	width: 60px;
+}
